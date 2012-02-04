@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 """
-Replaces every word in a user-provided sentence with a random synonym. 
+Replaces words in a sentence with random synonyms, much like students 
+"improving" essays. 
 
 Run as "python synonyms.py" (or make executable)
 Skips words less than 4 characters and words without synonyms.
